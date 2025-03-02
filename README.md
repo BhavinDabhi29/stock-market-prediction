@@ -1,4 +1,4 @@
-# Tesla Stock Price Prediction
+# Stock Price Prediction Using Machine Learning
 
 This repository contains a machine learning model to predict the stock price trend of Tesla (TSLA) using historical stock data. The project uses various classification models to predict whether the stock price will go up or down based on historical features such as `Open`, `High`, `Low`, `Close`, and `Volume`. The models used include `Logistic Regression`, `Support Vector Classifier (SVC)`, and `XGBoost Classifier`.
 
