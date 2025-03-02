@@ -85,17 +85,17 @@ The project includes several visualizations to understand the stock price trends
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/tesla-stock-prediction.git
+git clone https://github.com/BhavinDabhi29/stock-market-prediction.git
 ```
 
 Change into the project directory:
 
 ```bash
-cd tesla-stock-prediction
+cd stock-market-prediction
 ```
 
 Run the Jupyter Notebook or Python script to train the models and see the results:
 
 ```bash
-python stock_prediction.py
+python stock price prediction.ipynb
 ```
